@@ -1,4 +1,6 @@
 ## Hola como va 👋
+## Todo esto comenzó con por un zx spectrum 128K.
+## Mi primer programa fue hecho en basic.
 
 <!--
 **CarlosVR48/CarlosVR48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
