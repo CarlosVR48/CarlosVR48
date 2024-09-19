@@ -3,12 +3,12 @@
 ## Mi primer programa fue hecho en Basic 🤔.
 ## Hize un curso donde me enseñaron Basic, Cobol y C .Pero
 ## los pc´s eran del aÑo  90 con ms-dos 💾
-##               👾👾👾👾👾
-##              👾👾👾👾👾
-##             👾👾👾👾👾
-##                    🔺
-##                 🔺
-##              🚀
+## ⬜⬜⬜⬜⬜⬜👾👾👾👾👾👾👾👾⬜⬜⬜⬜
+## ⬜⬜⬜⬜⬜👾👾👾👾👾👾👾👾⬜⬜⬜⬜⬜
+## ⬜⬜⬜⬜👾👾👾👾👾👾👾👾⬜⬜⬜⬜⬜⬜
+## ⬜⬜⬜⬜⬜⬜⬜🔺⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+## ⬜⬜⬜⬜⬜⬜🔺⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+## ⬜⬜⬜⬜⬜🚀⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 <!--
