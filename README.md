@@ -1,7 +1,7 @@
 ## Hola como va 👋
 ## Todo esto comenzó con por un zx spectrum 128K.
 ## Mi primer programa fue hecho en Basic 🤔.
-## Hize un curso donde me enseñaron Basic, Cobol y C .pero
+## Hize un curso donde me enseñaron Basic, Cobol y C .Pero
 ## los pc´s eran del aÑo  90 con ms-dos
 
 <!--
