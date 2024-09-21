@@ -18,7 +18,6 @@
 ##
 ##
 ## Estos son algunos programas mios.
-
 <a href="https://github.com/CarlosVR48/Retos-de-Programacion"><img src="./ibm.png" style="height: 50%; width:50%;"/></a>
 
 
