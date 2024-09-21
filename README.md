@@ -1,4 +1,4 @@
-<a href="https://github.com/CarlosVR48"><img src="https://raw.githubusercontent.com/CarlosVR48/Datos/ibm.png style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/CarlosVR48"><img src="https://raw.github.com/CarlosVR48/Datos/ibm.png style="height: 60%; width:60%;"/></a>
 
 ## Hola como va 👋
 ## Todo esto comenzó con por un zx spectrum 128K.
