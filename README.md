@@ -1,4 +1,4 @@
-![https://github.com/CarlosVR48](./Datos/ibm.png) 
+![https://github.com/CarlosVR48/CarlosVR48](./Datos/ibm.png) 
 ## Hola como va 👋
 ## Todo esto comenzó con por un zx spectrum 128K.
 ## Mi primer programa fue hecho en Basic 🤔.
