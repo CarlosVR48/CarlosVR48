@@ -12,7 +12,7 @@
 ## Pero los pc´s eran del año 1990 con ms-dos 💾.
 ## Ahora me encuentro programando en Python, con
 ## una gran comunidad de gente, la cual tengo que dar 
-## las gracias. Sobre todo dale a Mouredev las gracias
+## las gracias. Sobre todo darle a Mouredev las gracias
 ## por sus cursos gratuitos de Youtube :
 [![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
 ##
